@@ -1,0 +1,8 @@
+*.o
+*.P
+*.map
+*.elf
+*.hex
+*.lss
+
+.DS_Store
